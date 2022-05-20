@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ahzzano/csgo-veto-ui/issues"
   },
-  "homepage": "https://github.com/ahzzano/csgo-veto-ui#readme"
+  "homepage": "https://github.com/ahzzano/csgo-veto-ui#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
