@@ -1,0 +1,19 @@
+{
+  "name": "csgo-veto-ui",
+  "version": "1.0.0",
+  "description": "hud for csgo map picks/ban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahzzano/csgo-veto-ui.git"
+  },
+  "author": "ahzzan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ahzzano/csgo-veto-ui/issues"
+  },
+  "homepage": "https://github.com/ahzzano/csgo-veto-ui#readme"
+}

@@ -5,6 +5,9 @@ This is the hud that we used for the Ubay Invitational Streams. This hud shows t
 ## Architecture
 < to be built >
 
+## Requirements
+
+
 ## How to Use
 1. Run the Backend
 2. Run the Frontend
