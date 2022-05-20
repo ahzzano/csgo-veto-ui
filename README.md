@@ -6,7 +6,7 @@ This is the hud that we used for the Ubay Invitational Streams. This hud shows t
 < to be built >
 
 ## Requirements
-
+< to be determined >
 
 ## How to Use
 1. Run the Backend
@@ -15,9 +15,6 @@ This is the hud that we used for the Ubay Invitational Streams. This hud shows t
 
 ## Important APIs
 < to be built >
-## TODO
-1. Build the Backend
-2. Build the Frontend
 
 ## Acknowledgements
 I would like to thank everyone else who decides to contribute to this repository
