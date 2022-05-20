@@ -5,7 +5,7 @@ const app = express()
 const config = JSON.parse(fs.readFileSync('./config.json'))
 
 const state = require('./gameState')
-const consts = require('./constants')
+const consts = require('../constants')
 
 let currentState = state.createState(config.maps)
 
