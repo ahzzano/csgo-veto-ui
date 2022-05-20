@@ -11,5 +11,9 @@ This is the hud that we used for the Ubay Invitational Streams. This hud shows t
 - [ ] Make sure it displays the data from the backend properly
 - [ ] Make sure that it routinely updates 
 - [ ] Add animations
+
+### Controller
+- [ ] Picks/Bans can be done over discord
+
 ### General Stuff
 - [ ] Clean Code
