@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/restart', (req, res) => {
-    currentState = createState(config.maps)
+    currentState = state.createState(config.maps)
     res.redirect('/state')
 })
 
@@ -24,7 +24,23 @@ app.get('/get_config', (req, res) => {
     res.json(config)
 })
 
+app.get('/ban', (req, res) => {
+    if(req.query.team != currentState.turn) {
+        res.json({"error": "it is not your turn yet"})
+        return
+    }
+
+    currentState = state.banMap(currentState, req.query.map)
+    res.redirect('/state')
+})
+
 app.get('/pick', (req, res) => {
+    if(req.query.team != currentState.turn) {
+        res.json({"error": "it is not your turn yet"})
+        return
+    }
+    currentState = state.pickMap(currentState, req.query.map)
+    
     res.redirect('/state')
 })
 
