@@ -1,3 +1,4 @@
+const { create } = require("domain")
 
 const TEAM_1 = 1
 const TEAM_2 = 2
@@ -63,8 +64,6 @@ function banMap(state, mapName) {
     return state
 }
 
-export default {
-    pickMap,
-    banMap,
-    createState
-}
+exports.pickMap = pickMap
+exports.banMap = banMap
+exports.createState = createState
