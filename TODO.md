@@ -5,8 +5,8 @@ This is the hud that we used for the Ubay Invitational Streams. This hud shows t
 ## Tasks
 ### Backend Tasks
 - [*] Setup the Backend
-- [ ] Create the Necessary Endpoints
-- [ ] Make sure the data is being sent cleanly
+- [*] Create the Necessary Endpoints
+- [*] Make sure the data is being sent cleanly
 ### Frontend Tasks
 - [ ] Make sure it displays the data from the backend properly
 - [ ] Make sure that it routinely updates 

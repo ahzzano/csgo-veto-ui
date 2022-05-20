@@ -1,6 +1,9 @@
+// Backend Constants
 const PORT = 8000
 const TEAM_1 = 1
 const TEAM_2 = 2
+
+// Frontend Constants
 
 exports.PORT = PORT
 exports.TEAM_1 = TEAM_1
