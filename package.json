@@ -4,7 +4,9 @@
   "description": "hud for csgo map picks/ban",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backend": "node ./backend/index.js",
+    "frontend": "exit 1"
   },
   "repository": {
     "type": "git",
