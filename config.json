@@ -1,0 +1,37 @@
+{
+    "team1_name": "team1",
+    "team2_name": "team2",
+    "team1_abbv": "t1",
+    "team2_abbv": "t2",
+    "maps": [
+        {
+            "name": "Mirage",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/1/1e/CSGO_Mirage_latest_version.jpg/revision/latest?cb=20200301201524"
+        },
+
+        {
+            "name": "Dust 2",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/4/42/Dust2_asite1.png/revision/latest?cb=20211006143721"
+        },
+        {
+            "name": "Nuke",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/9/93/CSGO_Nuke_22_Nov_2019_update_picture_1.jpg/revision/latest?cb=20210903110157"
+        },
+        {
+            "name": "Inferno",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/f/f0/Inferno.jpg/revision/latest?cb=20161014013320"
+        },
+        {
+            "name": "Overpass",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/6/6e/Csgo-de-overpass.png/revision/latest?cb=20140820130544"
+        },
+        {
+            "name": "Vertigo",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/a/a5/Vertigo-b-site-overview.png/revision/latest?cb=20210901105128"
+        },
+        {
+            "name": "Ancient",
+            "image": "https://static.wikia.nocookie.net/cswikia/images/9/94/De_ancient.png/revision/latest?cb=20201204072600"
+        }
+    ]
+}
