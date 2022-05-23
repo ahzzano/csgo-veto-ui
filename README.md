@@ -1,3 +1,4 @@
+# DEPRECATED
 # csgo-veto-ui
 
 This is the hud that we used for the Ubay Invitational Streams. This hud shows the team map picks and bans for CSGO. Functionality for Valorant could also be expanded
